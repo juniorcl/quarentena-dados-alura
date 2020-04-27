@@ -1,34 +1,36 @@
 # QuarentenaDados Alura
-Notebooks com as atividades realizadas durante a quarenta dados.
+Notebooks with activities performed during QUarentenaDados (data quarantine) Event that was held by [Alura](https://www.alura.com.br/). There is also a portuguese version where you may read in the [README_pt.md](https://github.com/juniorcl/quarentenadados-alura/blob/master/README_pt.md) file.
 
-## Evento
-A [QuarentenaDados](https://www.alura.com.br/quarentenadados "QuarentenaDados") foi um evento realizado pela alura durante a quarentena ocasionada por causa do vírus da COVID-19. O evento foi realizado por meio de 5 vídeo aulas que foram disponibilizadas no youtube durante o período de 20 de abril e 25 de abril de 2020.
+## Event
+The [QuarentenaDados](https://www.alura.com.br/quarentenadados "QuarentenaDados") was an event carried out by alura during the quarantine caused by the COVID-19 virus. The event was held through 5 video classes from April 20 to 25, 2020.
 
-### Temas abordados
-Cada dia abordou um tema diferente. Abaixo estão descritos os dias e a descrição do que foi abordado em cada dia.
+### Topics covered
+Each day addressed a different topic. Below are the days and description of what was covered each day.
 
-#### Dia 1 - Dados do MovieLens e Enem
-Análise exploratório dos dados que temos. Por onde investigar? A base para qualquer trabalho científico.
+#### Day 1 - MovieLens and Enem data
+Exploratory analysis of the data we have. Where to investigate? The basis for any scientific work.
 
-#### Dia 2 - Visualização de dados
-Não basta montar gráficos: ele precisa contar uma história honesta, transparente.
+#### Day 2 - Data vizualization
+It is not enough to create graphics: they need to tell an honest, transparent story.
 
-#### Dia 3 - Estatística prática
-Números, testes e comparações para saber se estamos no caminho certo.
+#### Day 3 - Practical statistics
+Numbers, tests and comparisons to see if we are on the right track.
 
-#### Dia 4 - Técnicas em ciências de dados
-Vamos conhecer mais a fundo as técnicas e bibliotecas do Python
+#### Day 4 - Data science techniques
+Let's take a closer look at Python techniques and libraries.
 
-#### Dia 5 - Previsões e Machine Learning
-Um passo além, usando os algoritmos conhecidos para regressão e traçando previsões de diferentes formas.
+#### Day 5 - Forecasts and Machine Learning
+A step further, using known regression algorithms and making predictions in different ways.
 
+## Usage
+Notebooks are divided into 5 classes. At the end of each class, there is a challenge proposed for the student. In addition to the notebooks with the classes, there are still some notebooks with the proposed resolution for the exercises.
 
-## Notebooks
-Os notebooks estão dividios por aula que são 5 aulas no total. No final de cada aula existem um desafio que foi proposto para o aluno fazer. Além dos notebooks com as aulas, ainda há alguns notebooks com a resolução proposta para os exercícios.
+You may download the notebook and use with jupyter notebook or lab into your computer. Another solution is uploading the files to the google colab.
 
 ## Links
-- Página do evento [QuarentenaDados](https://www.alura.com.br/quarentenadados)
-- Base com [títulos e generos do Movie Lens](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/movies.csv)
-- Base de [notas do Movie Lens](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/ratings.csv)
-- Base [IMDB 5000](https://gist.githubusercontent.com/guilhermesilveira/24e271e68afe8fd257911217b88b2e07/raw/e70287fb1dcaad4215c3f3c9deda644058a616bc/movie_metadata.csv)
-- Base com [dados do ENEM](https://raw.githubusercontent.com/guilhermesilveira/enem-2018/master/MICRODADOS_ENEM_2018_SAMPLE_43278.csv)
+- [QuarentenaDados website](https://www.alura.com.br/quarentenadados)
+- [Movie Lens title and genres base](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/movies.csv)
+- [Movie Lens score base](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/ratings.csv)
+- [IMDB 5000 base](https://gist.githubusercontent.com/guilhermesilveira/24e271e68afe8fd257911217b88b2e07/raw/e70287fb1dcaad4215c3f3c9deda644058a616bc/movie_metadata.csv)
+- [ENEM base](https://raw.githubusercontent.com/guilhermesilveira/enem-2018/master/MICRODADOS_ENEM_2018_SAMPLE_43278.csv)
+
