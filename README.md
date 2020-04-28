@@ -1,5 +1,5 @@
 # QuarentenaDados Alura
-Notebooks with activities performed during QUarentenaDados (data quarantine) Event that was held by [Alura](https://www.alura.com.br/). There is also a portuguese version where you may read in the [README_pt.md](https://github.com/juniorcl/quarentenadados-alura/blob/master/README_pt.md) file.
+Notebooks with activities performed during QUarentenaDados (data quarantine) Event that was held by [Alura](https://www.alura.com.br/).
 
 ## Event
 The [QuarentenaDados](https://www.alura.com.br/quarentenadados "QuarentenaDados") was an event carried out by alura during the quarantine caused by the COVID-19 virus. The event was held through 5 video classes from April 20 to 25, 2020.
@@ -7,20 +7,20 @@ The [QuarentenaDados](https://www.alura.com.br/quarentenadados "QuarentenaDados"
 ### Topics covered
 Each day addressed a different topic. Below are the days and description of what was covered each day.
 
-#### Day 1 - MovieLens and Enem data
-Exploratory analysis of the data we have. Where to investigate? The basis for any scientific work.
+	- #### Day 1 - MovieLens and Enem data
+	Exploratory analysis of the data we have. Where to investigate? The basis for any scientific work.
 
-#### Day 2 - Data vizualization
-It is not enough to create graphics: they need to tell an honest, transparent story.
+	- #### Day 2 - Data vizualization
+	It is not enough to create graphics: they need to tell an honest, transparent story.
 
-#### Day 3 - Practical statistics
-Numbers, tests and comparisons to see if we are on the right track.
+	- #### Day 3 - Practical statistics
+	Numbers, tests and comparisons to see if we are on the right track.
 
-#### Day 4 - Data science techniques
-Let's take a closer look at Python techniques and libraries.
+	- #### Day 4 - Data science techniques
+	Let's take a closer look at Python techniques and libraries.
 
-#### Day 5 - Forecasts and Machine Learning
-A step further, using known regression algorithms and making predictions in different ways.
+	- #### Day 5 - Forecasts and Machine Learning
+	A step further, using known regression algorithms and making predictions in different ways.
 
 ## Usage
 Notebooks are divided into 5 classes. At the end of each class, there is a challenge proposed for the student. In addition to the notebooks with the classes, there are still some notebooks with the proposed resolution for the exercises.
