@@ -7,19 +7,19 @@ The [QuarentenaDados](https://www.alura.com.br/quarentenadados "QuarentenaDados"
 ### Topics covered
 Each day addressed a different topic. Below are the days and description of what was covered each day.
 
-	- #### Day 1 - MovieLens and Enem data
+- #### Day 1 - MovieLens and Enem data
 	Exploratory analysis of the data we have. Where to investigate? The basis for any scientific work.
 
-	- #### Day 2 - Data vizualization
+- #### Day 2 - Data vizualization
 	It is not enough to create graphics: they need to tell an honest, transparent story.
 
-	- #### Day 3 - Practical statistics
+- #### Day 3 - Practical statistics
 	Numbers, tests and comparisons to see if we are on the right track.
 
-	- #### Day 4 - Data science techniques
+- #### Day 4 - Data science techniques
 	Let's take a closer look at Python techniques and libraries.
 
-	- #### Day 5 - Forecasts and Machine Learning
+- #### Day 5 - Forecasts and Machine Learning
 	A step further, using known regression algorithms and making predictions in different ways.
 
 ## Usage
