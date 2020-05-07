@@ -1,5 +1,5 @@
 # QuarentenaDados Alura
-Notebooks with activities performed during QUarentenaDados (data quarantine) Event that was held by [Alura](https://www.alura.com.br/).
+Notebooks with activities performed during QuarentenaDados (data quarantine) Event that was held by [Alura](https://www.alura.com.br/).
 
 ## Event
 The [QuarentenaDados](https://www.alura.com.br/quarentenadados "QuarentenaDados") was an event carried out by alura during the quarantine caused by the COVID-19 virus. The event was held through 5 video classes from April 20 to 25, 2020.
